@@ -14,8 +14,8 @@
 	"bikeshelter": true,
     "ratings": [5,4],
     "reviews" : [
-        {"reviewer":"anon1", "review": "Great location"},
-        {"reviewer":"anon2", "review": "Very comfortable accommodation"}
+        {"reviewer":"Guest", "review": "Great location"},
+        {"reviewer":"MrWander", "review": "Very comfortable accommodation"}
     ]
 },
 {
@@ -33,7 +33,7 @@
 	"bikeshelter": false,
     "ratings": [2,3,3,4,5,2,3,3,2,4,4,5,4,3,5,4,2],
     "reviews" : [
-        {"reviewer":"anon", "review": "Very handy for the city centre"}
+        {"reviewer":"Guest", "review": "Very handy for the city centre"}
     ]
 },
 {
@@ -51,9 +51,9 @@
 	"bikeshelter": true,
     "ratings": [3,5,4,4,2,4,4,4,5,5,1,2,4,3],
     "reviews" : [
-        {"reviewer":"anon1", "review": "Lovely views"},
-        {"reviewer":"anon2", "review": "Dog-friendly hostel"},
-        {"reviewer":"anon3", "review": "Enjoyed the wee breakfast"}
+        {"reviewer":"Guest", "review": "Lovely views"},
+        {"reviewer":"PoochyPal", "review": "Dog-friendly hostel"},
+        {"reviewer":"HungryJoe", "review": "Enjoyed the wee breakfast"}
     ]
 },
 {
@@ -71,7 +71,7 @@
 	"bikeshelter": true,
     "ratings": [4,4,4,3,3,3,5,5,2,1,1,4,5,4,3,3,3,3,3,3],
     "reviews" : [
-        {"reviewer":"anon", "review": "Muy buen alojamiento, excelente ubicación"}
+        {"reviewer":"Viajero", "review": "Muy buen alojamiento, excelente ubicación"}
     ]
 },
 {
@@ -105,8 +105,8 @@
 	"bikeshelter": false,
     "ratings": [4,2,4,5,2,3,3,3,5,2,2,4,5,4,3,4,4,4,2],
     "reviews" : [
-        {"reviewer":"anon1", "review": "This hostel is the best thing ever in the entire world"},
-        {"reviewer":"anon2", "review": "Fasgadh bho othail is beatha làitheil"}
+        {"reviewer":"Guest", "review": "This hostel is the best thing ever in the entire world"},
+        {"reviewer":"Viajero", "review": "Fasgadh bho othail is beatha làitheil"}
     ]
 },
 {
@@ -124,8 +124,8 @@
 	"bikeshelter": true,
     "ratings": [5,2,2,2,2,3,1,1,1,3,4,2,5,1,2,2,2],
     "reviews" : [
-        {"reviewer":"anon1", "review": "Nice garden, suitable for outside eating"},
-        {"reviewer":"anon2", "review": "Braw!"}
+        {"reviewer":"HungryJoe", "review": "Nice garden, suitable for outside eating"},
+        {"reviewer":"TartanTrek", "review": "Braw!"}
     ]
 },
 {
@@ -143,9 +143,9 @@
 	"bikeshelter": true,
     "ratings": [5,5,5,3,3,3,5,5,5,3,3,3,5,5,3,3,3,3,5],
     "reviews" : [
-        {"reviewer":"anon1", "review": "Keskellä ei mitään"},
-        {"reviewer":"anon2", "review": "아무데도 없는 가운데"},
-        {"reviewer":"anon3", "review": "Katikati ya mahali"}
+        {"reviewer":"Guest", "review": "Keskellä ei mitään"},
+        {"reviewer":"Guest", "review": "아무데도 없는 가운데"},
+        {"reviewer":"Guest", "review": "Katikati ya mahali"}
     ]
 },
 {
@@ -163,7 +163,7 @@
 	"bikeshelter": true,
     "ratings": [2,2,2,4,2,4,2,4,2,4,4,4,4,4,4,4,2,4],
     "reviews" : [
-        {"reviewer":"anon", "review": "Quite good"}
+        {"reviewer":"Guest", "review": "Quite good"}
     ]
 },
 {
@@ -181,8 +181,8 @@
 	"bikeshelter": true,
     "ratings": [],
     "reviews" : [
-        {"reviewer":"anon1", "review": "Very up to date"},
-        {"reviewer":"anon2", "review": "Off the main tourist track so quiet but some great beaches"}
+        {"reviewer":"MrModern", "review": "Very up to date"},
+        {"reviewer":"TartanTrek", "review": "Off the main tourist track so quiet but some great beaches"}
     ]
 },
 {
@@ -200,9 +200,9 @@
 	"bikeshelter": false,
     "ratings": [3,3,3,3,3,3,3,3,3,3,3,3,3,3,3],
     "reviews" : [
-        {"reviewer":"anon1", "review": "Disappointed not to see Nessie"},
-        {"reviewer":"anon2", "review": "Great location, great views"},
-        {"reviewer":"anon3", "review": "Quite handy for Inverness"}
+        {"reviewer":"NessieHunter", "review": "Disappointed not to see Nessie"},
+        {"reviewer":"Guest", "review": "Great location, great views"},
+        {"reviewer":"TartanTrek", "review": "Quite handy for Inverness"}
     ]
 },
 {
@@ -220,9 +220,9 @@
 	"bikeshelter": true,
     "ratings": [4,3,3,4,2,3,5,4,3,2,1,2,3,4,5,3,3,3],
     "reviews" : [
-        {"reviewer":"anon1", "review": "بالتأكيد في وسط اللا مكان"},
-        {"reviewer":"anon2", "review": "Absolutamente no meio do nada"},
-        {"reviewer":"anon3", "review": "Απολύτως στη μέση του πουθενά"}
+        {"reviewer":"Guest", "review": "بالتأكيد في وسط اللا مكان"},
+        {"reviewer":"Guest", "review": "Absolutamente no meio do nada"},
+        {"reviewer":"Guest", "review": "Απολύτως στη μέση του πουθενά"}
     ]
 },
 {
@@ -240,7 +240,7 @@
 	"bikeshelter": false,
     "ratings": [1,2,3,4,5,1,2,3,4,5,1,2,3,4,5],
     "reviews" : [
-        {"reviewer":"anon", "review": "Rooms have USB charging points"}
+        {"reviewer":"TechHead", "review": "Rooms have USB charging points"}
     ]
 },
 {
@@ -258,8 +258,8 @@
 	"bikeshelter": true,
     "ratings": [4,4,4,4,4,4,4,4,4,4,4,4,4,1,5],
     "reviews" : [
-        {"reviewer":"anon1", "review": "Not really on the NC500, but nice anyway"},
-        {"reviewer":"anon2", "review": "This is a great hostel! "}
+        {"reviewer":"PedanticPete", "review": "Not really on the NC500, but nice anyway"},
+        {"reviewer":"TartanTrek", "review": "This is a great hostel! "}
     ]
 },
 {
@@ -277,10 +277,10 @@
 	"bikeshelter": true,
     "ratings": [4,3,2,4,4,4,3,5,4,2,3,5,5,4,3,3,4,5,5,5,3],
     "reviews" : [
-        {"reviewer":"anon1", "review": "Great live music and atmosphere"},
-        {"reviewer":"anon2", "review": "Great value breakfasts, home-cooked evening meals and packed lunches"},
-        {"reviewer":"anon3", "review": "Some kind of big loch thing nearby"},
-        {"reviewer":"anon4", "review": "Got great photos of the monster, it totally exists"}
+        {"reviewer":"Rocker72", "review": "Great live music and atmosphere"},
+        {"reviewer":"HungryJoe", "review": "Great value breakfasts, home-cooked evening meals and packed lunches"},
+        {"reviewer":"TartanTrek", "review": "Some kind of big loch thing nearby"},
+        {"reviewer":"NessieHunter", "review": "Got great photos of the monster, it totally exists"}
     ]
     }
 ]
