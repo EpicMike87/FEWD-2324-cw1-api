@@ -5,6 +5,7 @@ var cors = require('cors');
 
 // Hostels API version 1.0
 // This version has been edited by Michael Anderson S2040004
+// Originally forked from https://github.com/FionaMacRaeFairlie/FEWD-2324-cw1-api
 
 // enabling CORS
 router.use(cors());
@@ -32,7 +33,6 @@ try {
 } catch (err) {
     console.error('Error reading data from file:', err);
 }
-
 
 
 
